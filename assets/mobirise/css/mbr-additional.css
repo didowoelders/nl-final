@@ -635,6 +635,8 @@ h6,
 
 
 
+
+
 #menu-1m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -696,6 +698,14 @@ h6,
 #menu-1m .link[aria-expanded="true"],
 #menu-1m .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
+}
+#msg-box1-4v H3 {
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box1-4v H2 {
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
 }
 #features3-1g H5 {
   font-family: 'Lato', sans-serif;
