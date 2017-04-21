@@ -699,14 +699,6 @@ h6,
 #menu-1m .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
-#msg-box1-4v H3 {
-  font-size: 15px;
-  font-family: 'Raleway', sans-serif;
-}
-#msg-box1-4v H2 {
-  font-family: 'Raleway', sans-serif;
-  color: #000000;
-}
 #features3-1g H5 {
   font-family: 'Lato', sans-serif;
   font-size: 15px;
@@ -724,6 +716,14 @@ h6,
   font-family: 'Lato', sans-serif;
   font-size: 15px;
   text-align: center;
+}
+#msg-box1-4w H3 {
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box1-4w H2 {
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
 }
 
 
